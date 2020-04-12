@@ -11,3 +11,5 @@ Major : 소프트웨어학부 컴퓨터전공
 Grade : 2
 
 Student ID : 2019014739
+
+Class : Open Source Software Development
